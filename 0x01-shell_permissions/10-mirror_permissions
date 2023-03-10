@@ -1,1 +1,2 @@
 #!/bin/bash
+sudo hmod --reference=olleh hello
