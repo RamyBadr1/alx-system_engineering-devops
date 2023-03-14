@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo echo $USERNAME
+sudo echo "Hello $USERNAME"
